@@ -12,11 +12,11 @@ nltk.download('stopwords', quiet=True)
 stop_words = set(stopwords.words("english"))
 
 # Load model
-with open("models/fake_news_model.pkl", "rb") as file:
+with open("./models/fake_news_model.pkl", "rb") as file:
     model = pickle.load(file)
 
 # Load vectorizer
-with open("models/vectorizer.pkl", "rb") as file:
+with open("./models/vectorizer.pkl", "rb") as file:
     vectorizer = pickle.load(file)
 
 # Text cleaning function
