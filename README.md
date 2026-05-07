@@ -107,8 +107,7 @@ Fake News Detection web interface using Streamlit.
 
 ## 🌐 Live Demo
 
-[Click Here to Open Live App]
-https://fake-news-detection-fbdrhxcepkusj6pva23yge.streamlit.app/
+[Click Here to Open Live App](https://fake-news-detection-fbdrhxcepkusj6pva23yge.streamlit.app/)
 
 ## 👨‍💻 Author
 
